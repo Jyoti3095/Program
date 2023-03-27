@@ -1,3 +1,4 @@
+#Write a Ruby program to lower case, upper case and capitalizes all the words of a given string.
 word = "JYOTI"
 puts word.downcase
 word2 = "upadhyay"
