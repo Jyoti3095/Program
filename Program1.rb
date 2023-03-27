@@ -1,1 +1,3 @@
-puts "Hello Jyoti"
+x = "Jyo"
+y = "ti"
+puts x + y
