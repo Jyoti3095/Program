@@ -1,3 +1,10 @@
 #Write a Ruby program to sort a given array of strings by length
 array = ["coconut", "apple","mango","banana", "watermelon"]
 puts array.sort_by(&:length)
+#by users input
+index1 = gets.chomp
+index2 = gets.chomp
+index3 = gets.chomp
+index4 = gets.chomp
+array = [index1, index2, index3, index4]
+puts array.sort_by(&:length)
